@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSPro\\002\\CSVChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1DB799-226D-4D59-977D-FE3C0F4CDD9D}|CSVChat\\CSVChat.csproj|D:\\VSPro\\002\\CSVChat\\csvchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC1DB799-226D-4D59-977D-FE3C0F4CDD9D}|CSVChat\\CSVChat.csproj|solutionrelative:csvchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1DB799-226D-4D59-977D-FE3C0F4CDD9D}|CSVChat\\CSVChat.csproj|d:\\vspro\\002\\csvchat\\csvchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1DB799-226D-4D59-977D-FE3C0F4CDD9D}|CSVChat\\CSVChat.csproj|solutionrelative:csvchat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\VSPro\\002\\CSVChat\\CSVChat\\Form1.cs",
+              "RelativeDocumentMoniker": "CSVChat\\Form1.cs",
+              "ToolTip": "D:\\VSPro\\002\\CSVChat\\CSVChat\\Form1.cs",
+              "RelativeToolTip": "CSVChat\\Form1.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAUwJ0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:09:42.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\VSPro\\002\\CSVChat\\CSVChat\\Form1.cs",
+              "RelativeDocumentMoniker": "CSVChat\\Form1.cs",
+              "ToolTip": "D:\\VSPro\\002\\CSVChat\\CSVChat\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CSVChat\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:01:58.241Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 154,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

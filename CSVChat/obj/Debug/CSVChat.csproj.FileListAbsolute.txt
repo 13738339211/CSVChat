@@ -1,0 +1,10 @@
+D:\VSPro\002\CSVChat\CSVChat\bin\Debug\CSVChat.exe.config
+D:\VSPro\002\CSVChat\CSVChat\bin\Debug\CSVChat.exe
+D:\VSPro\002\CSVChat\CSVChat\bin\Debug\CSVChat.pdb
+D:\VSPro\002\CSVChat\CSVChat\obj\Debug\CSVChat.csproj.AssemblyReference.cache
+D:\VSPro\002\CSVChat\CSVChat\obj\Debug\CSVChat.FrmMain.resources
+D:\VSPro\002\CSVChat\CSVChat\obj\Debug\CSVChat.Properties.Resources.resources
+D:\VSPro\002\CSVChat\CSVChat\obj\Debug\CSVChat.csproj.GenerateResource.cache
+D:\VSPro\002\CSVChat\CSVChat\obj\Debug\CSVChat.csproj.CoreCompileInputs.cache
+D:\VSPro\002\CSVChat\CSVChat\obj\Debug\CSVChat.exe
+D:\VSPro\002\CSVChat\CSVChat\obj\Debug\CSVChat.pdb
